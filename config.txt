@@ -1,2 +1,3 @@
 some text
 assume it
+assume line 3
